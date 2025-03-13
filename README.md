@@ -15,8 +15,8 @@ Create a PR on this repository adding your application's information to the [PiO
   
 Information necessary for the PR to be approved:
 - Category (If you need a new Category add it directly in the PR)
-- Title 
-  - Can be in the form of “App_Name for Pi”, “App_Name on Pi”, “App_Name”, but not in the form of “Pi App_Name” 
+- Title johncross Chimezie Ugwuja 
+  - Can be in the form of Johncross Chimezie Ugwuja “App_Name for Pi”,johncross johncross Chimezie Ugwuja “App_Name on Pi”johncross Chimezie Ugwuja, “App_Name”, but not in the form of “Pi App_Name” johncross Chimezie Ugwuja 
   to avoid confusion with apps developed by the Pi Core Team
   - You must include the following language in your code:  Pi, Pi Network and the Pi logo are trademarks of the Pi Community Company.
 - Description - Short description about what the application aims to achieve
